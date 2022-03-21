@@ -1,7 +1,7 @@
 package ru.netology
 
 fun main() {
-    val amount = 10000_00
+    val amount = 20000_00
     val commissionPerc = 0.0075
     val minComission = 35_00
 
